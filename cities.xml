@@ -1,0 +1,21 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+<cities>
+    <city>
+        <name>Barcelona</name>
+        <country>Spain</country>
+        <population>1620343</population>
+        <description>Barcelona is known for its art and architecture, including the famous Sagrada Família church designed by Antoni Gaudí.</description>
+    </city>
+    <city>
+        <name>Tokyo</name>
+        <country>Japan</country>
+        <population>13929286</population>
+        <description>Tokyo is a bustling metropolis that blends the ultramodern and the traditional, from neon-lit skyscrapers to historic temples.</description>
+    </city>
+    <city>
+        <name>Cape Town</name>
+        <country>South Africa</country>
+        <population>433688</population>
+        <description>Cape Town is renowned for its stunning landscapes, including Table Mountain and beautiful beaches.</description>
+    </city>
+</cities>
