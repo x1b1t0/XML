@@ -1,0 +1,8 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+<animals>
+    <name> Elefant</name>
+    <species> Mamifer</species>
+    <diet> hierbas, hojas, ramas, frutas, cortezas de árboles, raíces y arbustos.</diet>
+    <habitat>  sabanas, bosques tropicales, bosques perennifolios y semiperennifolios, bosques caducifolios húmedos y secos, bosques espinosos, pastizales, pantanos y zonas arbustivas. </habitat>
+    <description> El elefante es el mamífero terrestre más grande del mundo, perteneciente a la familia Elephantidae y al orden de los proboscídeos, caracterizado por su gran tamaño, trompa prensil, orejas grandes y colmillos desarrollados.</description>
+</animals>
